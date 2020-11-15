@@ -57,9 +57,8 @@
 		width: 400px;
 		margin-left: 100px;
 	}
-
-
-}@media (max-width: 480px){
+}
+@media (max-width: 480px){
 	.aboutbanner{
 		padding-top: 40px;
 		display: block;
