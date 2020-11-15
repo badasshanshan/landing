@@ -32,15 +32,12 @@
 	padding-top: 5px;
 	cursor: pointer;
 }
-
 a:hover {
 	color:#F04C5E;
 }
-
 .active{
 	color: #FF6614 !important;
 }
-
 #navbtn{
 	position: absolute;
 	top: 25px;
@@ -73,5 +70,3 @@ a:hover {
 		font-size: 12px;
 	}
 }
-
-
