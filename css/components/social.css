@@ -7,14 +7,9 @@
 .social-link ul{
 	list-style-type: none;
 	margin-right: 10px;
-
 }
 .social-link ul li{
 	margin-top: 20px;
 }
-span {
+span{
 	color: white;
-
-span:hover{
-	color: #F04C5E;
-}
